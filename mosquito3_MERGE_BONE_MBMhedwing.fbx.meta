@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: 5e67eb4d96bbe934a834aed776c3fac3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ' claw1.R'
+    100002: ' claw1.R_end'
+    100004: Armature
+    100006: base
+    100008: claw1.L
+    100010: claw1.L_end
+    100012: claw2.L
+    100014: claw2.L_end
+    100016: claw2.R
+    100018: claw2.R_end
+    100020: claw3.L
+    100022: claw3.L_end
+    100024: claw3.R
+    100026: claw3.R_end
+    100028: Cube.001
+    100030: Cube.003
+    100032: Cube.004
+    100034: Cube.012
+    100036: forearm.L
+    100038: forearm.R
+    100040: head
+    100042: head 1
+    100044: head_end
+    100046: legs
+    100048: legs.001
+    100050: //RootNode
+    100052: neck
+    100054: pelvis
+    100056: sacemoveL3.001
+    100058: sacemoveL3.002
+    100060: sacemoveL3.002_end
+    100062: sacmove1.001
+    100064: sacmove1.002
+    100066: sacmove1.002_end
+    100068: sacmove2.001
+    100070: sacmove2.002
+    100072: sacmove2.002_end
+    100074: sacmove3.001
+    100076: sacmove3.002
+    100078: sacmove3.002_end
+    100080: sacmoveL.001
+    100082: sacmoveL.002
+    100084: sacmoveL.002_end
+    100086: sacmoveL2.001
+    100088: sacmoveL2.002
+    100090: sacmoveL2.002_end
+    100092: sacmoveLL.001
+    100094: sacmoveLL.002
+    100096: sacmoveLL.002_end
+    100098: sacmoveLL2.001
+    100100: sacmoveLL2.002
+    100102: sacmoveLL2.002_end
+    100104: shoulder.L
+    100106: shoulder.R
+    100108: shoulderbone.L
+    100110: shoulderbone.L.002
+    100112: shoulderbone.L.002_end
+    100114: shoulderbone.R
+    100116: shoulderbone.R.001
+    100118: shoulderbone.R.001_end
+    100120: sucker1
+    100122: sucker1_end
+    100124: sucker2
+    100126: sucker2_end
+    100128: sucker3
+    100130: sucker3_end
+    100132: sucker4
+    100134: sucker4_end
+    100136: suckerjoint
+    100138: suckerjoint.001
+    100140: Sun
+    100142: talon1.L
+    100144: talon1.R
+    100146: talon2.L
+    100148: talon2.R
+    100150: talon3.L
+    100152: talon3.R
+    100154: talontar3.L
+    100156: talontar3.R
+    100158: thighs
+    100160: torso
+    100162: uparm.L
+    100164: uparm.R
+    400000: ' claw1.R'
+    400002: ' claw1.R_end'
+    400004: Armature
+    400006: base
+    400008: claw1.L
+    400010: claw1.L_end
+    400012: claw2.L
+    400014: claw2.L_end
+    400016: claw2.R
+    400018: claw2.R_end
+    400020: claw3.L
+    400022: claw3.L_end
+    400024: claw3.R
+    400026: claw3.R_end
+    400028: Cube.001
+    400030: Cube.003
+    400032: Cube.004
+    400034: Cube.012
+    400036: forearm.L
+    400038: forearm.R
+    400040: head
+    400042: head 1
+    400044: head_end
+    400046: legs
+    400048: legs.001
+    400050: //RootNode
+    400052: neck
+    400054: pelvis
+    400056: sacemoveL3.001
+    400058: sacemoveL3.002
+    400060: sacemoveL3.002_end
+    400062: sacmove1.001
+    400064: sacmove1.002
+    400066: sacmove1.002_end
+    400068: sacmove2.001
+    400070: sacmove2.002
+    400072: sacmove2.002_end
+    400074: sacmove3.001
+    400076: sacmove3.002
+    400078: sacmove3.002_end
+    400080: sacmoveL.001
+    400082: sacmoveL.002
+    400084: sacmoveL.002_end
+    400086: sacmoveL2.001
+    400088: sacmoveL2.002
+    400090: sacmoveL2.002_end
+    400092: sacmoveLL.001
+    400094: sacmoveLL.002
+    400096: sacmoveLL.002_end
+    400098: sacmoveLL2.001
+    400100: sacmoveLL2.002
+    400102: sacmoveLL2.002_end
+    400104: shoulder.L
+    400106: shoulder.R
+    400108: shoulderbone.L
+    400110: shoulderbone.L.002
+    400112: shoulderbone.L.002_end
+    400114: shoulderbone.R
+    400116: shoulderbone.R.001
+    400118: shoulderbone.R.001_end
+    400120: sucker1
+    400122: sucker1_end
+    400124: sucker2
+    400126: sucker2_end
+    400128: sucker3
+    400130: sucker3_end
+    400132: sucker4
+    400134: sucker4_end
+    400136: suckerjoint
+    400138: suckerjoint.001
+    400140: Sun
+    400142: talon1.L
+    400144: talon1.R
+    400146: talon2.L
+    400148: talon2.R
+    400150: talon3.L
+    400152: talon3.R
+    400154: talontar3.L
+    400156: talontar3.R
+    400158: thighs
+    400160: torso
+    400162: uparm.L
+    400164: uparm.R
+    2100000: No Name
+    4300000: Cube.003
+    4300002: Cube.004
+    4300004: Cube.001
+    4300006: head
+    4300008: Cube.012
+    9500000: //RootNode
+    10800000: Sun
+    13700000: Cube.001
+    13700002: Cube.003
+    13700004: Cube.004
+    13700006: Cube.012
+    13700008: head
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
